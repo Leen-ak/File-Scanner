@@ -44,7 +44,7 @@ with the executable file name and the name of the folder
 ![switch-x](https://github.com/user-attachments/assets/e6fad4c3-63d4-4b42-8241-dba07cf012d1)
 
 A test summary to see if I did all the requirements 
-![fileUsage-file](https://github.com/user-attachments/assets/dcaf83bd-16a5-4ea7-89ec-ab4ecf36a964)
+![pass](https://github.com/user-attachments/assets/321d668c-5760-469b-b954-871db8c6c193)
 
 **Project Structure**
 1- main.cpp: The entry point of the application, handling argument parsing and initiating directory scans.
