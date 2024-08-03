@@ -1,0 +1,4 @@
+﻿  FileUsage.cpp
+C:\$$$INFO1156-05, c++\FileUsage\FileUsage\ScanDrive.hpp(220,37): warning C4244: '=': conversion from 'uintmax_t' to 'unsigned int', possible loss of data
+C:\$$$INFO1156-05, c++\FileUsage\FileUsage\ScanDrive.hpp(126,1): warning C4715: 'FileReader::switchCheck': not all control paths return a value
+  FileUsage.vcxproj -> C:\$$$INFO1156-05, c++\FileUsage\x64\Debug\FileUsage.exe
