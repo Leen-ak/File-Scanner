@@ -1,5 +1,5 @@
-﻿# File-Usage
-fileUsage is a versatile command-line tool designed to scan directories, analyze file types and sizes, and provide detailed reports. It supports various sorting and filtering options, including sorting by size, extension, reverse order, and filtering with regular expressions. This tool is ideal for managing and understanding storage patterns, making it easier to analyze file distributions within a given directory.
+﻿# File-Scanner
+File-Scanner is a versatile command-line tool designed to scan directories, analyze file types and sizes, and provide detailed reports. It supports various sorting and filtering options, including sorting by size, extension, reverse order, and filtering with regular expressions. This tool is ideal for managing and understanding storage patterns, making it easier to analyze file distributions within a given directory.
 
 ## Features
 1. Directory Scanning: Recursively scan directories to gather information about files.
@@ -10,7 +10,7 @@ fileUsage is a versatile command-line tool designed to scan directories, analyze
 6. Help and Documentation: Built-in help command to guide users on available features and usage.
 
 ## Installation
-To use fileUsage, you need to have a C++ compiler that supports C++17 or later and the necessary build tools.
+To use File-Scanner, you need to have a C++ compiler that supports C++17 or later and the necessary build tools.
 
 ## Usage
 - The basic usage of fileUsage is as follows:
